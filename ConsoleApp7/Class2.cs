@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp7
 {
-    internal class Class22
+    internal class Class222
     {
     }
 }
